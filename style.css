@@ -8,3 +8,42 @@ body {
     margin: 36px 0;
     background-color: #d9d9d9;
 }
+
+h4 {
+    color: #E1624F;
+}
+
+h1 h2 {
+    color: #1B1B1B;
+    font-weight: bold;
+}
+
+h1 {
+    size: 36px;
+}
+
+h2 {
+    size: 32px;    
+}
+
+h3 {
+    size: 28px;
+    font-weight: bold;
+}
+
+h4 {
+    size: 16px;
+    font-weight: bold;
+}
+
+p {
+    color: #333333;
+    size: 16px;
+    font-weight: regular;
+}
+
+h5 {
+    size: 16px;
+    font-weight: italic;
+}
+
